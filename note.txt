@@ -1,0 +1,14 @@
+first command : truffle compile
+second command: truffle migrate : push it to the blockchain
+
+>>truffle compile
+>> truffle migrate
+
+
+// lets open truffle console..
+
+>> truffle console
+
+accounts = await web3.eth.getAccounts()
+
+blockNumber = await web3.eth.getBlockNumber()

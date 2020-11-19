@@ -1,0 +1,16 @@
+{
+  "name": "decentralized-app",
+  "version": "0.1.0",
+  "description": "truffle init project used to start truffle project, just as truffle init but configured clean",
+  "author": "ekuma@binaryhills.org",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "chai": "4.2.0",
+    "chai-as-promised": "7.1.1",
+    "chai-bignumber": "3.0.0",
+    "truffle": "5.0.5",
+    "web3": "1.0.0-beta.55"
+  },
+  "scripts": {},
+  "eslintConfig": {}
+}
